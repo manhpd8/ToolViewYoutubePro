@@ -1,0 +1,10 @@
+D:\Projects\Tool\ToolViewYoutubePro\bin\Debug\ToolViewYoutubePro.exe.config
+D:\Projects\Tool\ToolViewYoutubePro\obj\Debug\ToolViewYoutubePro.csprojResolveAssemblyReference.cache
+D:\Projects\Tool\ToolViewYoutubePro\bin\Debug\ToolViewYoutubePro.exe
+D:\Projects\Tool\ToolViewYoutubePro\bin\Debug\ToolViewYoutubePro.pdb
+D:\Projects\Tool\ToolViewYoutubePro\bin\Debug\WebDriver.dll
+D:\Projects\Tool\ToolViewYoutubePro\bin\Debug\WebDriver.Support.dll
+D:\Projects\Tool\ToolViewYoutubePro\bin\Debug\WebDriver.xml
+D:\Projects\Tool\ToolViewYoutubePro\bin\Debug\WebDriver.Support.xml
+D:\Projects\Tool\ToolViewYoutubePro\obj\Debug\ToolViewYoutubePro.exe
+D:\Projects\Tool\ToolViewYoutubePro\obj\Debug\ToolViewYoutubePro.pdb

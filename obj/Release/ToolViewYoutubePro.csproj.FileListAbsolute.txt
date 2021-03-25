@@ -1,0 +1,12 @@
+D:\Projects\Tool\ToolViewYoutubePro\bin\Release\ToolViewYoutubePro.exe.config
+D:\Projects\Tool\ToolViewYoutubePro\bin\Release\ToolViewYoutubePro.exe
+D:\Projects\Tool\ToolViewYoutubePro\bin\Release\ToolViewYoutubePro.pdb
+D:\Projects\Tool\ToolViewYoutubePro\bin\Release\WebDriver.dll
+D:\Projects\Tool\ToolViewYoutubePro\bin\Release\WebDriver.Support.dll
+D:\Projects\Tool\ToolViewYoutubePro\bin\Release\WebDriver.xml
+D:\Projects\Tool\ToolViewYoutubePro\bin\Release\WebDriver.Support.xml
+D:\Projects\Tool\ToolViewYoutubePro\obj\Release\ToolViewYoutubePro.csprojAssemblyReference.cache
+D:\Projects\Tool\ToolViewYoutubePro\obj\Release\ToolViewYoutubePro.csproj.CoreCompileInputs.cache
+D:\Projects\Tool\ToolViewYoutubePro\obj\Release\ToolViewYoutubePro.csproj.CopyComplete
+D:\Projects\Tool\ToolViewYoutubePro\obj\Release\ToolViewYoutubePro.exe
+D:\Projects\Tool\ToolViewYoutubePro\obj\Release\ToolViewYoutubePro.pdb
